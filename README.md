@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">My name is Volodymyr, and I'm a software engineer, from Ukraine</p>
+<p align="left">My name is Volodymyr, and I'm a software engineer</p>
 
 ###
 
